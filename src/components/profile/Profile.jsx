@@ -4,7 +4,7 @@ import './Profile.module.css';
 
 const Profile = ({ name, tag, location, image, stats }) => {
   return (
-    <div>
+    <div className="user">
       <div>
         <img src={image} 
           alt="User avatar"
