@@ -13,6 +13,7 @@ const Profile = ({ name, tag, location, image, stats }) => {
         <p>@{tag}</p>
         <p>{location}</p>
       </div>
+      
       <ul>
         <li>
           <span>Followers</span>
