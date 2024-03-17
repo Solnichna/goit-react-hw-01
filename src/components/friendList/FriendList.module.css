@@ -1,6 +1,8 @@
   .friends-table {
     display: flex;
     margin-bottom: 50px;
+    margin-top: 50px;
+    margin-left:50px;
     gap: 10px;
   }
   
