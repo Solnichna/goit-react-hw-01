@@ -1,6 +1,9 @@
 // import React from 'react';
-import Profile from './profile/Profile'; 
-import userData from '../userData.json'; 
+import Profile from '../profile/Profile'; 
+import userData from '../../userData.json'; 
+
+// import FriendList from '../friendList/FriendList'; 
+// import TransactionHistory from '..//transactionHistory/TransactionHistory'; 
 
 const App = () => {
   return (
