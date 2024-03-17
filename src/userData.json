@@ -1,5 +1,4 @@
 {
-    "userData": {
       "username": "Jacques Gluke",
       "tag": "jgluke",
       "location": "Ocho Rios, Jamaica",
@@ -9,16 +8,6 @@
         "views": 4827,
         "likes": 1308
       }
-    },
-    "App": {
-      "component": "Profile",
-      "props": {
-        "name": "{userData.username}",
-        "tag": "{userData.tag}",
-        "location": "{userData.location}",
-        "image": "{userData.avatar}",
-        "stats": "{userData.stats}"
-      }
     }
-  }
+
   
